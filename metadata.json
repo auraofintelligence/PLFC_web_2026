@@ -1,0 +1,7 @@
+{
+  "name": "Point Lookout Fishing Club Inc.",
+  "description": "A comprehensive community portal for the Point Lookout Fishing Club, featuring membership management, event calendars, merchandise store, and an AI-powered Quandamooka ecosystem guide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
